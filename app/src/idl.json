@@ -1,0 +1,14 @@
+{
+    "version": "0.1.0",
+    "name": "solme",
+    "instructions": [
+      {
+        "name": "initialize",
+        "accounts": [],
+        "args": []
+      }
+    ],
+    "metadata": {
+      "address": "Ge1DNXiaQ2f5JZN4j8mug79qkmkaKEWGB4Yws3RUMvLR"
+    }
+  }
